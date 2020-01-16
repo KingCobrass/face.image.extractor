@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "face.image.extractor.consoleapp", "face.image.extractor.consoleapp\face.image.extractor.consoleapp.csproj", "{56CA5892-88D1-4413-B72D-48F154AB3316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CA5892-88D1-4413-B72D-48F154AB3316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CA5892-88D1-4413-B72D-48F154AB3316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CA5892-88D1-4413-B72D-48F154AB3316}.Debug|x64.ActiveCfg = Debug|x64
+		{56CA5892-88D1-4413-B72D-48F154AB3316}.Debug|x64.Build.0 = Debug|x64
+		{56CA5892-88D1-4413-B72D-48F154AB3316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CA5892-88D1-4413-B72D-48F154AB3316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CA5892-88D1-4413-B72D-48F154AB3316}.Release|x64.ActiveCfg = Release|x64
+		{56CA5892-88D1-4413-B72D-48F154AB3316}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0116B413-B429-4630-B742-B944277249AB}
+	EndGlobalSection
+EndGlobal
